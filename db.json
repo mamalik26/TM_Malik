@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pommes",
+      "description": "Des pommes juteuses et savoureuses, cultivées sur notre ferme",
+      "price": 3.5,
+      "supplier": "Ferme du Pommier",
+      "category": "Fruits",
+      "image": "https://www.example.com/images/apple.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fromage de chèvre",
+      "description": "Un fromage de chèvre au lait frais et aux saveurs délicates",
+      "price": 8.99,
+      "supplier": "Ferme du Chèvrefeuille",
+      "category": "Produits laitiers",
+      "image": "https://www.example.com/images/goat_cheese.jpg"
+    }
+  ]
+}
