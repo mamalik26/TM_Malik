@@ -4,19 +4,64 @@
       "id": 1,
       "name": "Pommes",
       "description": "Des pommes juteuses et savoureuses, cultivées sur notre ferme",
-      "price": 3.5,
+      "price": "3.5/kg",
       "supplier": "Ferme du Pommier",
       "category": "Fruits",
-      "image": "https://www.example.com/images/apple.jpg"
+      "image": "https://www.example.com/images/pommes.jpg"
     },
     {
       "id": 2,
       "name": "Fromage de chèvre",
       "description": "Un fromage de chèvre au lait frais et aux saveurs délicates",
-      "price": 8.99,
+      "price": "8.99/pce",
       "supplier": "Ferme du Chèvrefeuille",
       "category": "Produits laitiers",
-      "image": "https://www.example.com/images/goat_cheese.jpg"
+      "image": "https://www.example.com/images/fromage.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pain complet",
+      "description": "Un pain complet cuit au four à bois, fait avec des ingrédients frais",
+      "price": "4.50/pce",
+      "supplier": "Boulangerie du village",
+      "category": "Boulangerie",
+      "image": "https://www.example.com/images/pain.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steak de boeuf",
+      "description": "Un steak de boeuf de qualité supérieure, élevé en liberté",
+      "price": "19.99/kg",
+      "supplier": "Élevages locaux",
+      "category": "Viandes",
+      "image": "https://www.example.com/images/steak.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Saumon sauvage",
+      "description": "Un saumon sauvage pêché de manière responsable",
+      "price": "24.99/kg",
+      "supplier": "Pêcheurs locaux",
+      "category": "Poissons",
+      "image": "https://www.example.com/images/saumon.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bière artisanale",
+      "description": "Une bière artisanale brassée avec des ingrédients locaux",
+      "price": "6.99/bte",
+      "supplier": "Brasserie locale",
+      "category": "Boissons",
+      "image": "https://www.example.com/images/bière.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Confiture de fraise",
+      "description": "Une confiture de fraise faite maison avec des fraises fraîches",
+      "price": "4.99/pot",
+      "supplier": "Producteurs locaux",
+      "category": "autres",
+      "image": "https://www.example.com/images/confiture.jpg"
     }
   ]
-}
+  }
